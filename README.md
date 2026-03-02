@@ -5,7 +5,7 @@ I compiled this mod for Linux so that anyone with a Linux PC can play this mod w
 
 ## Important Information
 
-If you are looking for the build(s) to run Baldi's Basics In Funkin', check the releases.
+If you are looking for the build(s) to run Baldi's Basics In Funkin', check the [releases](https://github.com/480ScratchBlox/fnf-BBif-demo2026-linux/releases).
 
 To compile and run the game, run the scripts in /setup (assuming you have [Haxe](https://haxe.org/) installed)
 
